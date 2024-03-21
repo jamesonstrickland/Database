@@ -22,7 +22,7 @@ Database Development
 ## Left Joins
 ## Right Joins
 
-## Stored Procedures
+# Stored Procedures
 
 # Functions
 ## Aggregate
