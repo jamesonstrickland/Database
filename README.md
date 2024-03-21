@@ -1,6 +1,5 @@
 # Database
 Database Development
-# Glossary of Terms
 
 # SQL
 
@@ -31,3 +30,5 @@ Database Development
 # Views
 
 # Indexes
+
+# Glossary of Terms
